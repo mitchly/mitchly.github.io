@@ -36,15 +36,15 @@ nav ul li a{
 }
 
 h1{
-    text-align: center;
+    text-align: -webkit-center;
     color: rgb(255, 251, 189);
 }
 
 h2{
-    text-align: center;
+    text-align: -webkit-center;
     color: white;
 }
 
 p{
-    text-align: center;
+    text-align: -webkit-center;
 }
