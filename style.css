@@ -9,7 +9,7 @@
     background: #1d2026;
     min-height: 100vh;
     width: 100%;
-    color: #fff;
+    color: rgb(174, 255, 189);
     position: relative;
 }
 
@@ -33,4 +33,18 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     color: rgb(174, 255, 189);
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 251, 189);
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+p{
+    text-align: center;
 }
