@@ -48,3 +48,7 @@ h2{
 p{
     text-align: -webkit-center;
 }
+
+p a{
+    color: rgb(174, 255, 189);
+}
