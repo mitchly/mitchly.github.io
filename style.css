@@ -16,7 +16,7 @@
 nav{
     display: flex;
     align-items: center;
-    padding: 20px 8%;
+    padding: 30px 8%;
 }
 
 nav ul{
@@ -51,4 +51,8 @@ p{
 
 p a{
     color: rgb(174, 255, 189);
+}
+
+p pre{
+    text-align: -webkit-center;
 }
